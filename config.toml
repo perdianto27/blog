@@ -1,0 +1,142 @@
+baseurl = "http://perdianto27.github.io/"
+title = "Perdianto"
+
+theme = "coder-portfolio"
+
+DefaultContentLanguage = "en"
+
+# Number of blog posts in each pagination page
+paginate = 10
+
+[permalinks]
+
+# Configures post URLs
+post = "/:slug/"
+
+# Make tags and categories work
+[indexes]
+    tag = "tags"
+    category = "categories"
+
+
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+pygmentsUseClasses = true
+
+disqusShortname = "perdianto"
+
+[params]
+    author = "perdianto"
+    description = "Perdianto's personal website"
+    keywords = "blog,developer,personal"
+    info = "WEB AND APPS ENGINEER"
+    avatarurl = "images/avatar.jpg"
+    # Text of the "Continue Reading" label. &rarr; == right arrow, but it gets messed up in the string so it was added to index.html manually
+    continueReadingText = "Baca selengkapnya..."
+    # Google analytics code - remove if you do not have/want Google Analytics - needs idvaScript
+    googleAnalytics = "UA-XXXXX-X"
+    # Switch to true to enable RSS icon link
+    rss = true
+    # Set to true to use a text label for RSS instead of an icon
+    # This is overwritten by the "rss" setting
+    textrss = false   
+    footercontent = "Enter a text here."
+    fixedbarContent = "Do you want to know me more private?→"
+    fixedbarContentAfter = "Thank You! Please share it if you like it→"
+
+    hideCredits = false
+    hideCopyright = false
+
+    snsShare = true
+
+    thumbnail = "images/tn.png"
+
+    # Custom CSS
+    custom_css = []
+
+    # Alignment of Mobile Menu items
+    itemscentered = true
+
+    # RTL support
+    rtl = false
+
+    langseparator = "|"
+
+[[params.social]]
+    name = "Github"
+    weight = 1
+    url = "https://github.com/perdianto27/"
+[[params.social]]
+    name = "Facebook"
+    weight = 2
+    url = "https://facebook.com/perdianto27/"
+[[params.social]]
+    name = "LinkedIn"
+    weight = 3
+    url = "https://www.linkedin.com/in/perdianto27/"
+
+[languages]
+    [languages.en]
+        languagecode = "en"
+        languagename = "English" # The language name to be displayed in the selector.
+        title = "Perdianto"
+
+        # You can configure the theme parameter for each language.
+        [languages.en.params]
+            author = "Perdianto"
+            info = "WEB AND APPS ENGINEER"
+            description = "Perdianto's personal website"
+            keywords = "blog,developer,programmer,personal"
+
+        [languages.en.menu] # It is possible to change the menu too.
+
+            [[languages.en.menu.main]]
+                name = "About"
+                weight = 1.0
+                url = "about"
+
+            [[languages.en.menu.main]]
+                name = "Blog"
+                weight = 2.0
+                url = "posts"
+
+            [[languages.en.menu.main]]
+                name = "Projects"
+                weight = 3
+                url = "projects"
+            [[languages.en.menu.main]]
+                name = "Contact me"
+                weight = 5
+                url = "contact"
+
+
+    [languages.id]
+        languagecode = "id"
+        languagename = "Bahasa Indonesia"
+        title = "Perdianto"
+
+        [languages.id.params]
+            author = "Perdianto"
+            description = "Perdianto's personal website"
+            keywords = "blog,developer,programmer,personal"
+            info = "WEB AND APPS ENGINEER"
+
+        [languages.id.menu]
+            [[languages.id.menu.main]]
+                name = "Tentang"
+                weight = 1.0
+                url = "id/about"
+            [[languages.id.menu.main]]
+                name = "Artikel"
+                weight = 2.0
+                url = "id/posts"
+            [[languages.id.menu.main]]
+                name = "Proyek"
+                weight = 3
+                url = "id/projects"
+            [[languages.id.menu.main]]
+                name = "Hubungi"
+                weight = 5
+                url = "id/contact"
