@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://perdianto27.github.io/apt-vs-apt-get/</loc>
+    <lastmod>2018-12-18T20:28:53+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://perdianto27.github.io/posts/featuresofcoderportfolio/</loc>
+    <lastmod>2018-08-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="http://perdianto27.github.io/id/posts/featuresofcoderportfolio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://perdianto27.github.io/posts/featuresofcoderportfolio/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://perdianto27.github.io/posts/theme-demo/</loc>
+    <lastmod>2018-08-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="http://perdianto27.github.io/id/posts/theme-demo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://perdianto27.github.io/posts/theme-demo/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://perdianto27.github.io/posts/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://perdianto27.github.io/posts/hugo-template-primer/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://perdianto27.github.io/posts/hugoisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://perdianto27.github.io/posts/migrate-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://perdianto27.github.io/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="http://perdianto27.github.io/id/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://perdianto27.github.io/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://perdianto27.github.io/b2/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="http://perdianto27.github.io/id/b2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://perdianto27.github.io/b2/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://perdianto27.github.io/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="http://perdianto27.github.io/id/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://perdianto27.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://perdianto27.github.io/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="http://perdianto27.github.io/id/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://perdianto27.github.io/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://perdianto27.github.io/tags/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://perdianto27.github.io/categories/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://perdianto27.github.io/tags/go/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://perdianto27.github.io/tags/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://perdianto27.github.io/categories/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://perdianto27.github.io/tags/hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://perdianto27.github.io/</loc>
+    <lastmod>2018-12-18T20:28:53+07:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="http://perdianto27.github.io/id/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://perdianto27.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://perdianto27.github.io/perdianto/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="http://perdianto27.github.io/id/perdianto/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://perdianto27.github.io/perdianto/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://perdianto27.github.io/post/</loc>
+    <lastmod>2018-12-18T20:28:53+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://perdianto27.github.io/posts/</loc>
+    <lastmod>2018-08-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="http://perdianto27.github.io/id/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://perdianto27.github.io/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://perdianto27.github.io/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="http://perdianto27.github.io/id/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://perdianto27.github.io/projects/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://perdianto27.github.io/tags/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="http://perdianto27.github.io/id/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://perdianto27.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://perdianto27.github.io/tags/templates/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://perdianto27.github.io/tags/themes/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://perdianto27.github.io/true/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="http://perdianto27.github.io/id/true/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="http://perdianto27.github.io/id/true/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="http://perdianto27.github.io/id/true/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://perdianto27.github.io/true/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://perdianto27.github.io/true/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="http://perdianto27.github.io/id/true/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="http://perdianto27.github.io/id/true/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="http://perdianto27.github.io/id/true/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://perdianto27.github.io/true/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://perdianto27.github.io/true/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="http://perdianto27.github.io/id/true/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="http://perdianto27.github.io/id/true/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="http://perdianto27.github.io/id/true/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://perdianto27.github.io/true/"
+                />
+  </url>
+  
+</urlset>
